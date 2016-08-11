@@ -299,6 +299,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/G/DEVELOP/DataStructures.Java/src/list/Node.java",
+			"settings":
+			{
+				"buffer_size": 59,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -345,8 +353,10 @@
 	],
 	"file_history":
 	[
-		"/G/DEVELOP/DataStructuresX.C/src/list/List1.c",
 		"/G/DEVELOP/DataStructuresX.C/src/list/List1.h",
+		"/G/DEVELOP/DataStructuresX.C/src/.gitignore",
+		"/G/DEVELOP/DataStructuresX.C/src/list/test.c",
+		"/G/DEVELOP/DataStructuresX.C/src/list/List1.c",
 		"/G/DEVELOP/DataStructuresX.C/src/list/autoscript.moon",
 		"/G/MANUSCRIPT/betpx/2016/data/figs/density_map/combined/density_map.svg",
 		"/G/MANUSCRIPT/betpx/2016/data/figs/terminal_motion/combined/terminal_motion.svg",
@@ -470,9 +480,7 @@
 		"/C/Users/Steven/DEVELOP/luapower/build.bat",
 		"/C/Users/Steven/DEVELOP/FunctionalX.lua/src/test/test_fn/test_map/init.moon",
 		"/C/Users/Steven/DEVELOP/FunctionalX.lua/src/test/test_fn/test_map/case.moon",
-		"/C/Users/Steven/DEVELOP/FunctionalX.lua/src/core_FunctionalX/_fn/_map.moon",
-		"/C/Users/Steven/DEVELOP/luapower/FunctionalX.lua",
-		"/C/Users/Steven/DEVELOP/FunctionalX.lua/src/test/test_fn/init.moon"
+		"/C/Users/Steven/DEVELOP/FunctionalX.lua/src/core_FunctionalX/_fn/_map.moon"
 	],
 	"find":
 	{
@@ -644,8 +652,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/G/DEVELOP/DataStructures.Java/src/list/Node.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 59,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
